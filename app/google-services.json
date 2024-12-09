@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75436225274",
+    "project_id": "quiz-app-from-boatswain",
+    "storage_bucket": "quiz-app-from-boatswain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75436225274:android:e64562c113bb2bd7eb8f43",
+        "android_client_info": {
+          "package_name": "com.example.quizappfromboatswain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn3t66wABui1r4syT80LaAqDBV8We2hz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
